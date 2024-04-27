@@ -1,0 +1,19 @@
+.colorful-box{
+  background:linear-gradient(to right, #ff7e5f, #feb47b);
+  height:25vw;
+  width:25vw;
+}
+
+.active{
+  padding: 0.4rem;
+  background-color: #2d72fb;
+  margin: auto;
+  display:block
+}
+
+.order_guy{
+  height:50vh;
+  background: rgba(0,0,0,0.2);
+  border: 1px solid black;
+  text-align:center
+}
