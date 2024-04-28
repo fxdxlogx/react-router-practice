@@ -1,5 +1,5 @@
 /* to make sure that user is logged in to show profile page */
-
+/* I guess we have already achieve this functionality in colorfulbox.js but implementing the same functionality by this method also for the shake of practice */
 import { useAuth } from "./authProvider";
 import {useNavigate} from 'react-router-dom'
 
